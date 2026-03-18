@@ -1,4 +1,4 @@
-﻿import sortHeroes from '../js/sortHeroes.js';
+import sortHeroes from '../js/sortHeroes.js';
 
 describe('sortHeroes function', () => {
   const heroes = [
